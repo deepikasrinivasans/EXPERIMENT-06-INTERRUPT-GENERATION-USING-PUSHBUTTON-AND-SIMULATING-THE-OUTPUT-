@@ -110,12 +110,19 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 
   HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
   ```
+ 
+ 
  ## Output screen shots of proteus  :
 LED OFF:
 ![led off](https://github.com/deepikasrinivasans/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/119393935/f972f754-52f0-4f8e-930c-79e925635903)
+
+
 LED ON:
 ![led on](https://github.com/deepikasrinivasans/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/119393935/add49b0a-8234-4f41-89b2-50b3da1769e1)
+
+
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![led 1](https://github.com/deepikasrinivasans/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/119393935/44d182f9-1bb9-401e-a204-5c197d56170c)
+ 
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
